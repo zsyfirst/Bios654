@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.22)  12 APR 2024 22:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.22)  12 APR 2024 22:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,20 +645,20 @@ used on input line 523.
 (pdftex.def)             Requested size: 459.74442pt x 317.20355pt.
 [9 <./ProblemSet1_files/figure-latex/unnamed-chunk-7-1.pdf>] [10] [11] [12]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
-15.
+16.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [13] [14] [15]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 1013.
+(Font)              <10> on input line 1014.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 1013.
+(Font)              <7> on input line 1014.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 1013.
+(Font)              <5> on input line 1014.
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 1013.
+(amsmath)                 on input line 1014.
 
 [16{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/l
 ocal/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2
@@ -669,7 +669,7 @@ File: ProblemSet1_files/figure-latex/unnamed-chunk-15-1.pdf Graphic file (type
 pdf)
 <use ProblemSet1_files/figure-latex/unnamed-chunk-15-1.pdf>
 Package pdftex.def Info: ProblemSet1_files/figure-latex/unnamed-chunk-15-1.pdf 
- used on input line 1150.
+ used on input line 1151.
 (pdftex.def)             Requested size: 443.6564pt x 315.17673pt.
 [18 <./ProblemSet1_files/figure-latex/unnamed-chunk-15-1.pdf>] [19]
 <ProblemSet1_files/figure-latex/unnamed-chunk-19-1.pdf, id=213, 453.695pt x 315
@@ -678,7 +678,7 @@ File: ProblemSet1_files/figure-latex/unnamed-chunk-19-1.pdf Graphic file (type
 pdf)
 <use ProblemSet1_files/figure-latex/unnamed-chunk-19-1.pdf>
 Package pdftex.def Info: ProblemSet1_files/figure-latex/unnamed-chunk-19-1.pdf 
- used on input line 1319.
+ used on input line 1320.
 (pdftex.def)             Requested size: 453.6939pt x 315.17673pt.
 [20] [21 <./ProblemSet1_files/figure-latex/unnamed-chunk-19-1.pdf>] [22] (./Pro
 blemSet1.aux) ) 
@@ -702,7 +702,7 @@ sr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/t
 exlive/2023/texmf-dist/fonts/type1/public/lm/lmtko10.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on ProblemSet1.pdf (22 pages, 446876 bytes).
+Output written on ProblemSet1.pdf (22 pages, 446878 bytes).
 PDF statistics:
  406 PDF objects out of 1000 (max. 8388607)
  324 compressed objects within 4 object streams
